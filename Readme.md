@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Anna Vatockina](https://up.htmlacademy.ru/adaptive/28/user/1254965).
-* Наставник: `Неизвестно`.
+* Наставник:[Александр Медведев](https://up.htmlacademy.ru/adaptive/28/user/1174257).
 
 ---
 
